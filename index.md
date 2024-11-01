@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Jekyll Site
+# Hello to all
 
-This is a simple Jekyll site built with GitHub Actions.
+Test web site for blog.
