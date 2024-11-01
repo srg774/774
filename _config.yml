@@ -1,3 +1,4 @@
 title: "My Jekyll Site"
 description: "A simple Jekyll site using GitHub Actions"
 theme: minima  # Use the theme of your choice
+skin: dark
