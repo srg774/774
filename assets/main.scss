@@ -1,1 +1,27 @@
+/*
+ * assets/main.scss
+ * the dashed lines above are required
+ */
+
+// Dark theme color variables
+$background-color: #1d1d1d; /* a dark, off-black for the bg */
+$text-color: #e6e6e6; /* an off-white for the text */
+$grey-color-light: #565656; /* for the border-top separators */
+$grey-color-dark: #adadad; /* such as the site title in the header, visited */
+
+// Global styles
+body {
+    background-color: $background-color;
+    color: $text-color;
+}
+
+a {
+    color: $grey-color-dark; /* Change link color for better visibility */
+}
+
+header, footer {
+    background-color: $grey-color-light; /* Background for header and footer */
+}
+
+// Add more styles as necessary
 
